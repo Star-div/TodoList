@@ -1,2 +1,2 @@
 # TodoList
-Todo-list with context-API in React
+Todo-list using context-API in React
